@@ -16,3 +16,19 @@ header {
   margin: .7rem;
   display: block;
 }
+
+.grain-right {
+  float: right;
+  width: 40px;
+  margin: .3rem;
+}
+
+.grain-left {
+  float: left;
+  width: 40px;
+  margin: .3rem;
+}
+
+nav li {
+  float: left
+}
